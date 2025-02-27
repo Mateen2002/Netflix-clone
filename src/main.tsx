@@ -7,6 +7,8 @@ import { Provider } from "react-redux";
 import { RouterProvider } from "react-router-dom";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
 
+//this test 
+
 import store from "./store";
 import { extendedApi } from "./store/slices/configuration";
 import palette from "./theme/palette";
